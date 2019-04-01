@@ -1,0 +1,27 @@
+spring:
+  datasource:
+    platform: mysql
+    driver-class-name: org.gjt.mm.mysql.Driver
+    url: jdbc:mysql://120.79.181.115/used?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    username: root
+    password: "1171217687"
+
+  mvc:
+    throw-exception-if-no-handler-found: true
+    static-path-pattern: /static/**
+
+# mybatis-plus
+mybatis-plus:
+  mapper-locations: classpath:modules/**/*.xml
+  type-aliases-package: com.hcyzzl.mks.**.entity.**
+  global-config:
+    id-type: 0
+    field-strategy: 2
+    db-column-underline: false
+    refresh-mapper: true
+    logic-delete-value: 1
+    logic-not-delete-value: 0
+  configuration:
+    cache-enabled: false
+custom:
+  rootFilePath: ''

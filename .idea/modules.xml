@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStorage/DataStorage.iml" filepath="$PROJECT_DIR$/DataStorage/DataStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarketSystem.iml" filepath="$PROJECT_DIR$/MarketSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parent/Parent.iml" filepath="$PROJECT_DIR$/Parent/Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+    </modules>
+  </component>
+</project>
