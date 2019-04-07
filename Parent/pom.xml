@@ -21,7 +21,7 @@
         <jdk.version>1.8</jdk.version>
         <junit.version>4.12</junit.version>
         <mokito.version>1.9.5</mokito.version>
-        <mysql.driver.version>5.1.30</mysql.driver.version>
+        <mysql.driver.version>5.1.35</mysql.driver.version>
         <servlet.version>3.1.0</servlet.version>
         <commons-configuration.version>1.6</commons-configuration.version>
         <commons-fileupload.version>1.3.1</commons-fileupload.version>

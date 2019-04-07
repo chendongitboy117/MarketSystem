@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jcraft:jsch:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch/unknown/jsch-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch/unknown/jsch-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch/unknown/jsch-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

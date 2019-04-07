@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="backend" />
+        <module name="Common" />
         <module name="DataStorage" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="backend" target="1.8" />
+      <module name="Common" target="1.8" />
       <module name="DataStorage" target="1.8" />
       <module name="MarketSystem" target="1.5" />
       <module name="Parent" target="1.8" />
@@ -19,6 +21,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Common" options="-parameters" />
       <module name="DataStorage" options="-parameters" />
       <module name="MarketSystem" options="-parameters" />
       <module name="Parent" options="-parameters" />

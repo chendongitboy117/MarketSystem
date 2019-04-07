@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStorage/DataStorage.iml" filepath="$PROJECT_DIR$/DataStorage/DataStorage.iml" />
       <module fileurl="file://$PROJECT_DIR$/MarketSystem.iml" filepath="$PROJECT_DIR$/MarketSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Parent/Parent.iml" filepath="$PROJECT_DIR$/Parent/Parent.iml" />

@@ -11,8 +11,9 @@
 
     <modules>
         <module>Parent</module>
-        <module>DataStorage</module>
         <module>Backend</module>
+        <module>DataStorage</module>
+        <module>Common</module>
     </modules>
 
 </project>
